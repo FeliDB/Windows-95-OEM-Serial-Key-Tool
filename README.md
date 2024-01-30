@@ -1,8 +1,8 @@
-<h1 align="center" id="title">Windows 95-OEM Serial Key Generator</h1>
+<h1 align="center" id="title">Windows 95-OEM Serial Key Tool</h1>
 
 <p align="center"><img src="https://winworldpc.com/res/img/screenshots/0d3b7496a121c9936c275ecdccffaf5e264615710a8165e2ef5f9fbe60d0d31c.jpg" alt="project-image"></p>
 
-<p id="description">Hello everyone. This is my first "complex-project" on C++ I hope you like it. It consists on a Windows 95-OEM Serial Key Generator in line-command.</p>
+<p id="description">Hello everyone. This is my first "complex-project" on C++ I hope you like it. It consists on a Windows 95-OEM Serial Key Generator and Comprobator in line-command. How this is my first project on C++ I know that it may have a few bugs. Make me know of any issue on my gmail: felipediazb16@gmail.com ENJOY!! :)</p>
 
   
   
